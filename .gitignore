@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.deps/
+tmp/
+video/*.mp4
+video/*.wav
+video/*.mp3
+C2_Edital_*.pdf
+.env
+.idea/
+.vscode/
+.pytest_cache/
+scripts/
+requirements-video.txt
+

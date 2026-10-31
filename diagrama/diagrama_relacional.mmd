@@ -1,0 +1,34 @@
+erDiagram
+    ADOTANTES ||--o{ ADOCOES : realiza
+    ANIMAIS ||--o| ADOCOES : participa
+
+    ADOTANTES {
+        INTEGER id_adotante PK
+        VARCHAR_100 nome "NOT NULL"
+        CHAR_11 cpf UK "NOT NULL"
+        VARCHAR_20 telefone "NOT NULL"
+        VARCHAR_120 email UK "NOT NULL"
+        VARCHAR_80 cidade "NOT NULL"
+        BOOLEAN ativo "NOT NULL DEFAULT TRUE"
+    }
+
+    ANIMAIS {
+        INTEGER id_animal PK
+        VARCHAR_80 nome "NOT NULL"
+        VARCHAR_10 especie "NOT NULL"
+        CHAR_1 sexo "NOT NULL"
+        SMALLINT idade_aproximada "NOT NULL"
+        VARCHAR_7 porte "NOT NULL"
+        VARCHAR_12 status_adocao "NOT NULL"
+        DATE data_entrada "NOT NULL"
+    }
+
+    ADOCOES {
+        INTEGER id_adocao PK
+        INTEGER id_adotante FK "NOT NULL"
+        INTEGER id_animal FK,UK "NOT NULL"
+        DATE data_adocao "NOT NULL"
+        NUMERIC_10_2 taxa "NOT NULL DEFAULT 0"
+        VARCHAR_300 observacoes "NULL"
+    }
+
