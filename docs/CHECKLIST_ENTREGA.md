@@ -21,9 +21,9 @@
 
 ## GitHub
 
-- [ ] Criar um repositório individual e enviar os arquivos sem compactar.
+- [x] Criar um repositório individual e enviar os arquivos sem compactar.
 - [x] Não versionar `.env` nem senhas (`.env` está no `.gitignore`).
-- [ ] Registrar os commits no nome de Davi Noronha da Matta Baptista.
+- [x] Registrar os commits no nome de Davi Noronha da Matta Baptista.
 - [ ] Adicionar `howardroatti` como colaborador.
 - [x] Confirmar localmente que o diagrama PDF e PNG abre corretamente.
 - [x] Confirmar que o README documenta a instalação e execução no Linux.

@@ -146,6 +146,8 @@ Para uma verificação manual completa, use a ordem sugerida:
 - Consulte [PROMPTS.md](PROMPTS.md) para o registro transparente do uso de inteligência artificial no desenvolvimento e na narração do vídeo.
 - No AVA, envie somente o link do repositório (ou um `.txt` com o link, se o sistema exigir um arquivo).
 
+**Repositório:** [abbadie/adotafa-banco-de-dados](https://github.com/abbadie/adotafa-banco-de-dados).
+
 **Link do vídeo:** [Demonstração do AdotaFá no YouTube](https://youtu.be/pBHH4sSRwMs).
 
 ## Autor
