@@ -31,7 +31,7 @@
 ## Vídeo e AVA
 
 - [x] Gerar uma gravação real da aplicação com todos os menus conforme `docs/ROTEIRO_VIDEO.md`.
-- [ ] Publicar o vídeo no YouTube.
-- [ ] Colocar o link do vídeo no README.
+- [x] Publicar o vídeo no YouTube.
+- [x] Colocar o link do vídeo no README.
 - [ ] Enviar no AVA somente o link do repositório ou um `.txt` com esse link.
 

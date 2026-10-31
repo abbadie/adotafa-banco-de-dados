@@ -140,13 +140,13 @@ Para uma verificação manual completa, use a ordem sugerida:
 ## Entrega e vídeo
 
 - Revise [docs/CHECKLIST_ENTREGA.md](docs/CHECKLIST_ENTREGA.md).
-- Grave a execução real do programa seguindo [docs/ROTEIRO_VIDEO.md](docs/ROTEIRO_VIDEO.md), publique o vídeo no YouTube e acrescente o link neste README.
+- O vídeo demonstrativo apresenta a execução real do programa, conforme a sequência em [docs/ROTEIRO_VIDEO.md](docs/ROTEIRO_VIDEO.md).
 - Adicione `howardroatti` como colaborador do repositório.
 - Por ser um projeto individual, todos os commits e a apresentação devem ser realizados por Davi Noronha da Matta Baptista.
 - Consulte [PROMPTS.md](PROMPTS.md) para o registro transparente do uso de inteligência artificial no desenvolvimento e na narração do vídeo.
 - No AVA, envie somente o link do repositório (ou um `.txt` com o link, se o sistema exigir um arquivo).
 
-**Link do vídeo:** preencher após a publicação.
+**Link do vídeo:** [Demonstração do AdotaFá no YouTube](https://youtu.be/pBHH4sSRwMs).
 
 ## Autor
 
